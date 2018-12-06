@@ -1,2 +1,2 @@
 # Mean2
-Mean Part 2
+Creating a second repository for MEAN training
